@@ -1,1 +1,1 @@
-# k3s
+# k3s Criação do K3s a titulo de testes e estudos..
